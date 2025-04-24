@@ -34,6 +34,29 @@ const Home = () => {
           <p>journey, ensuring your dream home becomes a reality</p>
         </div>
       </div>
+
+
+
+
+
+    <div id="">
+      <h1 style={{fontSize:40,}}>Why Choose Us</h1>
+      <p></p>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </div>
   );
 };

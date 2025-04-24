@@ -36,3 +36,26 @@ body{
     width: 1233px; */
     padding-left: 200px;    
 }
+
+
+
+#Help h1{
+    font-size: 40px;
+}
+
+
+
+#Help p{
+    font-size: 18px;
+}
+
+
+
+
+
+
+#Help img{
+    width: 595px;
+    height: 416px;
+    border-radius: 20px;    
+}
