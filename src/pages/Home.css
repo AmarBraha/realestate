@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+#Top{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-top: 100px;
+    /* height: 940px;
+    width: 1233px; */
+    padding-left: 200px;
+}
+
+
+
+.text h1{
+    font-size: 74px;
+}
+
+.text p{
+    font-size: 18px;
+}
+
+
+
+#Help{
+    display: grid;
+    grid-template-columns:repeat(2, 1fr);
+    padding-top: 100px;
+    /* height: 940px;
+    width: 1233px; */
+    padding-left: 200px;    
+}
