@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    overflow-x: hidden;
+}
+
+
+#main-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 100px;
+    padding: 0;
+    gap: 100px;
+    padding-left: 60px;
+}
+
+
+
+
+#object-list{
+    height: 534px;
+    width: 382px;
+    background-color: #DDC7BB;
+    border-radius: 18px;
+    box-shadow: 0 0 8px #DDC7BB;
+}
+
+
+
+
+
+.Popular-grid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+
+
+.Split-grid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+ 
+}
